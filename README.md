@@ -20,6 +20,7 @@ Bis jetzt bearbeiten:
 
 | Name | Semester   |
 |:--|:--|
-|Semester 1 | Max   |
-|Semester 2 | Amina |
-|Semester 3 | Felix |
+|Semester 1 | Max     |
+|Semester 2 | Amina   |
+|Semester 3 | Felix   |
+|Semester 4 | Antoine |
